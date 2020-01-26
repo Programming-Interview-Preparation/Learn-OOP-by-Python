@@ -8,3 +8,8 @@ Inheritance is the capability of one class to derive or inherit the properties f
 
 
 
+Example Chart:
+1. Inheritance Basic
+2. Single Inheritance
+
+
